@@ -109,6 +109,7 @@
 ## ⬇ 下载
 
 - **GitHub Releases**:[最新便携版](../../releases/latest)(绿色免安装,解压即用)。
+- **百度网盘**:[wwCA 便携版](https://pan.baidu.com/s/1lB_1AtDJqQPxTddX4l3r2w?pwd=wwsz)(提取码 `wwsz`,国内下载更快)。
 
 下载后建议核对完整性(与发布页公布的 SHA-256 一致即未被篡改):
 
